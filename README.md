@@ -21,7 +21,18 @@ Constituer un fichier des communes classées en état de catastrophe naturelles 
 * Export du fichier csv avec codes insee
 
 ## Ouverture et jointure insee dans QGIS
+
+Résultat en ouvrant le projet QGIS : 
+
 <img src="/img/communesCat_Nat_dpt_qgis.jpg" width="800">
+
+Données : 
+* Fichier département OSM 
+* Fichier communes OSM
+* Fichier communes en état de catastrophe naturelle
+
+La jointure se fait en ouvrant le fichier de communes > jointure > joindre sur insee.
+
 
 
 
